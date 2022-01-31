@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUILayoutApp: App {
     var body: some Scene {
         WindowGroup {
-            TestView()
+            BadgeTestView()
         }
     }
 }

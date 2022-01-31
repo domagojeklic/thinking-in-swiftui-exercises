@@ -11,6 +11,7 @@
 		790F837E27A30F710025F6F4 /* CollapsibleHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790F837D27A30F710025F6F4 /* CollapsibleHStack.swift */; };
 		790F838027A30F740025F6F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 790F837F27A30F740025F6F4 /* Assets.xcassets */; };
 		790F838327A30F740025F6F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 790F838227A30F740025F6F4 /* Preview Assets.xcassets */; };
+		79C03D7B27A6B0860008D1E0 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79C03D7A27A6B0860008D1E0 /* BadgeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		790F837D27A30F710025F6F4 /* CollapsibleHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollapsibleHStack.swift; sourceTree = "<group>"; };
 		790F837F27A30F740025F6F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		790F838227A30F740025F6F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		79C03D7A27A6B0860008D1E0 /* BadgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				790F837B27A30F710025F6F4 /* SwiftUILayoutApp.swift */,
 				790F837D27A30F710025F6F4 /* CollapsibleHStack.swift */,
+				79C03D7A27A6B0860008D1E0 /* BadgeView.swift */,
 				790F837F27A30F740025F6F4 /* Assets.xcassets */,
 				790F838127A30F740025F6F4 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79C03D7B27A6B0860008D1E0 /* BadgeView.swift in Sources */,
 				790F837E27A30F710025F6F4 /* CollapsibleHStack.swift in Sources */,
 				790F837C27A30F710025F6F4 /* SwiftUILayoutApp.swift in Sources */,
 			);

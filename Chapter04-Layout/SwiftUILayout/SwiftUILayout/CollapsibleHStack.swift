@@ -55,7 +55,7 @@ struct RectModel {
 
 // Define test view
 // It contains CollapsibleHStack and button that performs stack toggling
-struct TestView: View {
+struct CollapsibleHStackTestView: View {
 
     @State
     var expanded: Bool = true
@@ -78,6 +78,6 @@ struct TestView: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        TestView()
+        CollapsibleHStackTestView()
     }
 }
